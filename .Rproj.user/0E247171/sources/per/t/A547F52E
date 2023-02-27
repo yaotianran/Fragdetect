@@ -1,0 +1,26 @@
+{
+    "id": "A547F52E",
+    "path": "~/Work/projects/github_projects/Fragdetect/scripts/collect_bin_aneuploidy.R",
+    "project_path": "scripts/collect_bin_aneuploidy.R",
+    "type": "r_source",
+    "hash": "2683503443",
+    "contents": "",
+    "dirty": false,
+    "created": 1677136929409.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "60,3",
+        "scrollLine": "0"
+    },
+    "folds": "12|50|40|3|\n",
+    "lastKnownWriteTime": 1677203122,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677203122393,
+    "read_only": false,
+    "read_only_alternatives": []
+}

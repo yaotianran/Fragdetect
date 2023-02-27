@@ -1,0 +1,26 @@
+{
+    "id": "26D47F8B",
+    "path": "~/Work/projects/github_projects/Fragdetect/scripts/model.R",
+    "project_path": "scripts/model.R",
+    "type": "r_source",
+    "hash": "4284390262",
+    "contents": "",
+    "dirty": false,
+    "created": 1677055349624.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "242,49",
+        "scrollLine": "0"
+    },
+    "folds": "9|91|70|0|\n74|56|100|0|\n104|56|150|0|\n154|60|181|0|\n188|69|239|0|\n242|59|291|0|\n",
+    "lastKnownWriteTime": 1677056497,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677056497542,
+    "read_only": false,
+    "read_only_alternatives": []
+}
